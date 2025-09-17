@@ -28,6 +28,7 @@ Soy un **desarrollador full stack** apasionado por la tecnología y la creación
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
 [![React](https://skillicons.dev/icons?i=react)](https://es.react.dev/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
