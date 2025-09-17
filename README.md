@@ -30,11 +30,11 @@ Soy un **desarrollador full stack** apasionado por la tecnología y la creación
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
 [![React](https://skillicons.dev/icons?i=react)](https://es.react.dev/)
+[![Boostrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
   <img src="https://img.daisyui.com/images/daisyui/daisyui-logo-2000.png" width="48" height="48">
 </a>
-[![Boostrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 
 
